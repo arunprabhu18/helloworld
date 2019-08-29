@@ -9,7 +9,7 @@ public class hello {
 		System.out.println("git to jenkins");
 		System.out.println("git to jenkins");
 		System.out.println("git to jenkins");
-		System.out.println("git to jenkins");
+		
 	System.out.println("git to jenkins");
 	
 
